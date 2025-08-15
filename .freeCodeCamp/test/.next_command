@@ -1,0 +1,21 @@
+more name.txt
+ls --color=auto -l script.sh
+./script.sh < name.txt 2> stderr.txt > stdout.txt
+./script.sh < name.txt 2> stderr.txt > stdout.txt
+more stdout.txt
+./script.sh < name.txt 2> stderr.txt > stdout.txt
+./script.sh < name.txt 2> stderr.txt > stdout.txt
+cd .freeCodeCamp/
+ls --color=auto
+cd test
+ls --color=auto
+more 320.test.js
+ls --color=auto -l
+more 320.test.js
+ls --color=auto
+cd ..
+ls --color=auto
+more package.json
+node test
+cd
+node test
