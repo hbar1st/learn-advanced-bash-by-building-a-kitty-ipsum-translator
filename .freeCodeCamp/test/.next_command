@@ -165,3 +165,5 @@ wc -c kitty_ipsum_2.txt < cat
 wc -c < kitty_ipsum_2.txt
 wc -c < kitty_ipsum_2.txt >> kitty_info.txt
 wc -w < kitty_ipsum_2.txt >> kitty_info.txt
+man wc
+echo -e "\nNumber of characters:" >> kitty_info.txt
