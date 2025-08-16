@@ -222,3 +222,4 @@ man grep
 man grep
 __vsc_prompt_cmd_original
 man grep
+./translate.sh kitty_ipsum_1.txt
