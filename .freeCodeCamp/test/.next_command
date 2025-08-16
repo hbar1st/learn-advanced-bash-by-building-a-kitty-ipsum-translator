@@ -168,3 +168,7 @@ wc -w < kitty_ipsum_2.txt >> kitty_info.txt
 man wc
 echo -e "\nNumber of characters:" >> kitty_info.txt
 wc -m < kitty_ipsum_2.txt >> kitty_info.txt
+grep meow[a-z]* kitty_ipsum_2.txt
+grep --colors meow[a-z]* kitty_ipsum_2.txt
+man grep
+grep --color meow[a-z]* kitty_ipsum_2.txt
