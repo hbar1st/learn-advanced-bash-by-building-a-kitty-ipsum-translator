@@ -173,3 +173,10 @@ grep --colors meow[a-z]* kitty_ipsum_2.txt
 man grep
 grep --color meow[a-z]* kitty_ipsum_2.txt
 echo -e "\nNumber of times meow or meowzer appears:" >> kitty_info.txt
+grep meaw[a-z]* kity_ipsum_2.txt
+grep meaw[a-z]* kitty_ipsum_2.txt
+grep meow[a-z]* kitty_ipsum_2.txt
+man grep
+grep -o meow[a-z]* kitty_ipsum_2.txt
+grep -o meow[a-z]* kitty_ipsum_2.txt
+grep -o meow[a-z]* kitty_ipsum_2.txt
